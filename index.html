@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+  <meta charset="UTF-8">
+  <title>奇客网络工作室</title>
+  <link rel="shortcut icon" href="/static/favicon.png" typpe="images/png">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="奇客网络工作室，专业的软件研发机构，让您的工作行云流水，效率提升千百倍">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <meta name="renderer" content="webkit">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <!-- 网站描述+关键字+作者 -->
+  <meta name="keywords" content="骑客工作室,自媒体,水印,去水印,视频剪辑,视频剪辑工具,视频剪辑软件,自动剪辑,视频原创,视频采集,配音,QiKi工作室,QiKi剪辑师,QiKi视频工厂,抖音连怼,快手连怼">
+  <meta name="author" content="xhhdd">
+  <!-- vue主题样式 -->
+  <link rel="stylesheet" href="/static/js/vue.css">
+  <!-- 暗黑主题插件样式 -->
+  <link rel="stylesheet" href="/static/js/style.min.css" title="docsify-darklight-theme" type="text/css" />
+  <!-- 侧边栏插件样式 
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />-->
+  <link rel="stylesheet" href="/static/js/sidebar.min.css" />
+  <!-- Gitalk插件 -->
+  <link rel="stylesheet" href="/static/js/gitalk.css">
+  <!--   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/style.css"/>
+横幅插件 -->
+  <!--   <link rel="stylesheet" href="https://unpkg.com/docsify-toc@1.0.0/dist/toc.css">TOC插件 -->
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+  <script src="/static/js/instant.page.js" type="module"></script>
+  <link rel="dns-prefetch" href="//cdn.jsdelivr.net/" />
+  <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+  <style type="text/css">
+  body {
+    /*font-family: "Noto Sans CJK SC", "PingFang SC", "Microsoft Yahei UI", "Microsoft Yahei", -apple-system, BlinkMacSystemFont, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji;*/
+    font-weight: 400;
+	}
+  .sidebar ul li.active>a {
+    border-right: none;
+  }
+  .sidebar ul li a {
+    font-size: 15px;
+  }
+  .sidebar ul {
+    margin: 0 0 0 20px;
+  }
+  .sidebar li {
+    margin: 3px 0;
+  }
+  #docsify-darklight-theme {
+    top: 0px;
+  }
+  #topBanner {
+    z-index: 99;
+    text-align: center;
+  }
+  .markdown-section {
+    max-width: 80%;
+  }
+  .markdown-section ol, .markdown-section p, .markdown-section ul {
+    line-height: 1.7rem;
+    word-spacing: .05rem;
+  }
+  .app-name h1,.app-name-link,.cover-main h1,section.cover h1,.anchor span {
+	font-family: -apple-system, 'Noto Serif SC', "PingFang SC", "Microsoft Yahei UI", "Microsoft Yahei", sans-serif;
+	font-weight: 900;
+  }	
+  <!-- .markdown-section h1 { -->
+    <!-- text-align: center; -->
+  <!-- } -->
+  <!-- :root { -->
+    <!-- --docsifytabs-border-color: #ededed; -->
+    <!-- --docsifytabs-tab-highlight-color: purple; -->
+  <!-- } -->
+  </style>
+  
+  
+  <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?831dfc5f23f8043ee24bfa0bbc29cee0";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</head>
+
+<body>
+  <div id="app">loading...</div>
+  <!-- 在github上编辑插件 
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>-->
+  <script>
+    window.$docsify = {
+      name: 'QiKiStudio Docs', // 文档标题，会显示在侧边栏顶部
+      nameLink: './', // 点击文档标题后的跳转地址
+      repo: '', // https://github.com/love2wind/Doc有repo属性则右上角会展示github图标，点击可进入
+      basePath: '', // 资源相对路径
+      loadSidebar: true, // 加载侧边栏
+      loadNavbar: true, //加载菜单栏
+      externalLinkTarget: '_blank', // 外部链接的打开方式，默认_blank
+      cornerExternalLinkTarget: '_blank', // 右上角链接的打开方式。默认为 _blank
+      routerMode: 'hash', // 路由方式 默认hash
+	    onlyCover: false,  //只在访问主页时加载封面
+      coverpage: false, // 展示封面
+      notFoundPage: true, // 在找不到指定页面时加载_404.md
+      auto2top: true, // 切换页面后是否自动跳转到页面顶部
+	    maxLevel: 6,  //最大渲染的标题层级
+	    autoHeader: false,  //自动加载标题到目录
+	    subMaxLevel: 5,  //自定义侧边栏后默认不会再生成目录，你也可以通过设置生成目录的最大层级开启这个功能
+	    sidebarDisplayLevel: 1, //侧边栏插件  数字0就代表不展开 只显示最表层的【一级目录】,数字1的话就会展开二级目录
+	    mergeNavbar: false,  //小屏设备下合并导航栏到侧边栏
+	    loadFooter: true,  //页脚插件
+	    loadFooter: '_footer.md',//页脚插件文件
+      search: { // 搜索插件配置
+        paths: 'auto',
+        placeholder: '🔍 搜索',
+        noData: '😞 没有结果!'
+      },
+    // 字数统计插件配置
+    count:{
+        countable: true,
+        position: 'top',
+        margin: '10px',
+        float: 'right',
+        fontsize:'0.9em',
+        color:'rgb(136 12 12)',
+        language:'chinese',
+        localization: {
+            words: "",
+            minute: ""
+        },
+        isExpected: true
+        },
+		pagination: { // 分页插件配置
+        previousText: '上一章节',
+        nextText: '下一章节',
+        crossChapter: true,
+      },
+      <!-- plugins: [ -->
+        <!-- EditOnGithubPlugin.create( -->
+          <!-- 'https://docs.qiki.asia', -->
+          <!-- null, -->
+          <!-- function ( file ) { -->
+            <!-- if ( file.indexOf( 'en' ) === -1 ) { -->
+              <!-- return '在 GitHub 上编辑' -->
+            <!-- } else { -->
+              <!-- return 'Edit on Github' -->
+            <!-- } -->
+          <!-- } -->
+        <!-- ) -->
+      <!-- ], -->
+	  <!-- topBanner: { -->
+        <!-- content: '🎉欢迎查看QiKIStudio文档，希望本站能使您不虚此行！', -->
+		<!-- textAlign: 'center', -->
+		<!-- position: 'fixed', -->
+		<!-- backgroundColor: '#deebff', -->
+		<!-- zIndex: '99', -->
+		<!-- textColor: '#091E42', -->
+		<!-- linkColor: '#091E42', -->
+		<!-- defaultTag: 'span', -->
+      <!-- }, -->
+	  <!-- toc: { -->
+		<!-- scope: '.markdown-section', -->
+		<!-- headings: 'h1, h2, h3, h4, h5, h6', -->
+		<!-- title: '快速导航', -->
+      <!-- }, -->
+      themeColor: "#42b983", // 暗黑模式主题色
+      darklightTheme: {
+        siteFont: "Source Sans Pro,Source Han Sans SC,Noto Sans CJK SC,HanHei SC,-apple-system,BlinkMacSystemFont,system-ui,sans-serif,Apple Color Emoji,Segoe UI Emoji,Noto Color Emoji", 
+         <!--siteFont: 'Noto Sans CJK SC, PingFang SC, Microsoft Yahei UI, Microsoft Yahei, -apple-system, BlinkMacSystemFont, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji',  -->
+        defaultTheme: 'dark',
+        codeFontFamily: 'Roboto Mono, Monaco, courier, monospace',
+        bodyFontSize: '16px',
+        dark: {
+          accent: '#42b983',
+          toogleBackground: '#ffffff',
+          background: '#091a28',
+          textColor: '#b4b4b4',
+          codeTextColor: '#ffffff',
+          codeBackgroudColor: '#0e2233',
+          borderColor: '#0d2538',
+          blockQuoteColour: '#858585',
+          highlightColor: '#d22778',
+          sidebarSublink: '#b4b4b4',
+          codeTypeColor: '#ffffff',
+          <!-- coverBackground: 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)', -->
+		      coverBackground: 'linear-gradient(to left bottom, hsl(13, 100%, 85%) 0%,hsl(224, 100%, 85%) 100%)',
+          toogleImage: 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)'
+        },
+        light: {
+          accent: '#42b983',
+          toogleBackground: '#091a28',
+          background: '#ffffff',
+          textColor: '#2c3e50',
+          codeTextColor: '#525252',
+          codeBackgroudColor: '#f8f8f8',
+          borderColor: 'rgba(0, 0, 0, 0.07)',
+          blockQuoteColor: '#676565',
+          highlightColor: '#d22778',
+          sidebarSublink: '#505d6b',
+          codeTypeColor: '#091a28',
+          <!-- coverBackground: 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)', -->
+		      coverBackground: 'linear-gradient(to left bottom, hsl(13, 100%, 85%) 0%,hsl(224, 100%, 85%) 100%)',
+          toogleImage: 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)'
+        }
+      },
+	  <!-- tabs: { -->
+		<!-- persist    : true,      // default -->
+		<!-- sync       : true,      // default -->
+		<!-- theme      : 'classic', // default -->
+		<!-- tabComments: true,      // default -->
+		<!-- tabHeadings: true       // default -->
+			<!-- } -->
+    }
+  </script>
+	<!-- 插入Gitalk插件 -->
+<!-- 	<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+	<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+	  <script>
+	  const gitalk = new Gitalk({
+		clientID: '0e27a1a46d195824329f',
+		clientSecret: '77b008bdd409db0d2e699be2e0f2b6380967cfbb',
+		repo: 'videoWater',
+		owner: 'suifengqjn',
+		admin: ['suifengqjn'],
+		id: location.pathname,      // Ensure uniqueness and length less than 50
+		// distractionFreeMode: false    // facebook-like distraction free mode
+	  })
+	  </script> -->
+</body>
+<script async defer data-website-id="7fc73fe0-fd7c-420d-93bd-2317178ca3ef" src="/static/js/love2wind_umami.js"></script>
+<script src="/static/js/docsify.min.js"></script>
+<!--侧边栏插件-->
+<script src="/static/js/docsify-footer.min.js"></script>
+<!--页脚插件-->
+<script src="/static/js/docsify-sidebar-collapse.min.js"></script>
+<!--侧边栏插件-->
+<script src="/static/js/search.min.js"></script>
+<!--全局搜索插件-->
+<script src="/static/js/countable.min.js"></script>
+<!--<script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+字数统计插件-->
+<!-- <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script> -->
+<!--代码段复制插件-->
+<script src="/static/js/zoom-image.min.js"></script>
+<!--图片缩放插件-->
+<!-- <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script> -->
+<script src="/static/js/docsify-pagination.min.js"></script>
+<!-- 分页导航插件 -->
+<script src="/static/js/index.min.js"></script>
+<!-- 暗黑主题切换插件 -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/index.js"></script> -->
+ <!-- 横幅插件  -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/docsify-toc@1.0.2/index.min.js"></script> -->
+<!-- TOC插件 -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1.5.0/dist/docsify-tabs.min.js"></script> -->
+ <!-- Tab插件  -->
+</html>

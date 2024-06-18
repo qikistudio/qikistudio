@@ -1,0 +1,151 @@
+* <mark> **入门** </mark>
+  * [软件对比](guide/contrast.md)
+  * [软件下载](guide/download.md)
+  * [常见问题](guide/question.md)
+* <mark> **监控/下载/截流** </mark>
+  * 抖快去水印(抖/快/西瓜/好看)
+    - [抖快去水印+关键词采集](qikiclip/DKRwatermark.md)
+  * 直播监控下载(抖/快/蝴蝶)
+    - [直播监控下载](qikiclip/jiankong.md)
+  * 小绿点监控下载(抖/快/蝴蝶)
+    - [小绿点监控下载](qikiclip/XLDjiankong.md)
+  * P6监控搬(抖音到其他平台)
+    - [P6-监控搬](qikiclip/P6JKB.md)
+    - [P6-更新记录](qikiclip/P6JKB_changelog.md)
+  * 图灵直播截流(抖音)
+    - [更新中。。](soft/)
+  * 千川投流涨粉计数器
+      - [千川投流涨粉计数器](qikiclip/QCjsq.md)
+* <mark> **批量发布/账号管理** </mark>
+  * 懒人连怼-抖传助手
+    - [抖传助手价绍](qikiclip/DYLianD.md)
+    - [使用教程](qikiclip/DYLianD_course.md)
+    - [更新记录](qikiclip/DYLianD_changelog.md)
+  * 抖小宝达人管家(抖音)
+    - [抖小宝价绍](qikiclip/DXBfabu.md)
+  * 9平台视频发布助手(视频)
+    - [9平台分发介绍-教程](qikiclip/publish9PT.md)
+  * 小火箭抖快发布助手(图文)
+    - [小火箭介绍-教程](qikiclip/PublishDKtuwen.md)
+  * 生活号批量发布【支付宝】
+    - [生活号批量发布](qikiclip/PublishZhiFBSHH.md)
+  * 小红书发布助手
+    - [小红书发布助手](qikiclip/PublishXHSTW.md)
+  * 京/拼/淘-视频发布
+    - [京/拼/淘-视频发布](qikiclip/JPTPublish.md)
+  * 批量删除（四平台）
+    - [抖/快/百/蝴蝶 批量删除](qikiclip/4PTDel.md)
+* <mark> **晒单工具** </mark>
+  * 爆单管家-查晒单(抖音)
+    - [爆单管家-查晒单](qikiclip/ChaSD.md)
+    - [教程](qikiclip/ChaSD_course.md)
+    - [爱思包制作](qikiclip/BDGJ_PRO/aisiBao.md)
+    - [更新记录](qikiclip/ChaSD_changelog.md)
+  * 小伙爆单-查晒单(抖音)
+    - [小伙爆单-查晒单](qikiclip/XHSD.md)
+* <mark> **批量/剪辑/去重/混剪** </mark>
+  * 视频制作-7.0
+    - [视频制作-7.0](qikiclip/qikiclip6_0.md)
+    - [更新记录](qikiclip/qikiclip6_0_changelog.md)
+  * 擎天柱短视频助手(剪映)
+    - [擎天柱-教程](qikiclip/clipQTZ.md)
+  * 多多快剪+图文(剪映)
+    - [多多快剪-教程](qikiclip/clipDDT.md)
+  * 灵狐剪辑
+    - [更新中。。](qikiclip/)
+  * QiKi剪辑师
+    - [QiKi剪辑师](soft/aicut.md)
+    - [入门教程](soft/aicut_course.md)
+    - [合并栏](soft/aicut_merge.md)
+    - [剪辑栏](soft/aicut_editor.md)
+    - [消重栏](soft/aicut_dedupe.md)
+    - [特效栏](soft/aicut_effect.md)
+    - [mv栏](soft/aicut_mv.md)
+    - [配音字幕栏](soft/aicut_dub.md)
+    - [水印栏](soft/aicut_water.md)
+    - [后期栏](soft/aicut_poster.md)
+    - [配置任务](soft/aicut_other.md)
+    - [工具栏](soft/aicut_tool.md)
+    - [更新记录](soft/aicut_changelog.md)
+  * QiKi裂变
+    - [QiKi裂变](soft/videoFission.md)
+    - [教程](soft/videoFission_course.md)
+    - [更新记录](soft/videoFission_changelog.md)
+* <mark> **AI/数字人/图说话** </mark>
+  * AI魔盒-让照片说话
+    - [简介](qikiclip/AIZPshuohua.md)
+  * AI数字人视频版
+    - [更新中。。](soft/)
+  * AI通天猴·音频变量
+    - [AI通天猴](qikiclip/AITTHou.md)
+* <mark> **直播辅助** </mark>
+  * 播小宝-[直播助手]
+    - [播小宝](qikiclip/BoXB.md)
+  * 智能保镖
+      - [智能保镖](qikiclip/ZNBaoBiao.md)
+  * 哮天犬[直播保镖]
+    - [哮天犬](qikiclip/XTQ.md)
+    - [教程](qikiclip/XTQ_course.md)
+    - [更新记录](qikiclip/XTQ_changelog.md)
+  * 直播-小雪花
+    - [小不点-小雨滴](qikiclip/XBD.md)
+  * 实体商家自动直播
+    - [实体商家自动直播](qikiclip/STZDB.md)
+    - [更新记录](qikiclip/STZDB_changelog.md)
+  * 商家店播-三平台版
+    - [更新中。。](soft/)
+* <mark> **抖店/橱窗/投流** </mark>
+  * 商家助手-达人邀约
+    - [达人邀约](qikiclip/DRyaoyue.md)
+  * 小蜜蜂-达人邀约
+    - [小蜜蜂](qikiclip/XMFyaoyue.md)
+  * 好会计-达人结算系统
+    - [好会计](qikiclip/HaoKJ.md)
+  * 橱窗一键采集
+    - [橱窗采集-8G](qikiclip/8GeCollect.md)
+  * 随心宝-随心推助手【停售】
+    - [随心宝-停售](qikiclip/)
+* <mark> **音/文 互转** </mark>
+  * QiKi文字识别【更新中。。。】
+* <mark> **手机软件** </mark>
+    - [飞鹰云剪-搬运](qikiclip/FYCloudEditing.md)
+    - [多视助手-搬运](qikiclip/DShiAssistant.md)
+    - [放飞直播-转播/无人](soft/)
+    - [鹿播精灵-转播/无人](soft/)
+* <mark> **其他软件** </mark>
+  * WeTool
+    - [更新中。。](soft/)
+  * 微信挂机自动加
+    - [更新中。。](soft/)
+* <mark> **软件参数设置** </mark>
+  * 阿里云
+    - [阿里云参数注册](platform/ali/register.md)
+    - [配音效果试听](platform/ali/listen.md)
+    - [阿里云语音包购买](platform/ali/buy.md)
+    - [阿里云参数说明](platform/ali/param.md)
+  * 百度云
+    - [百度云语音注册](platform/baidu/register.md)
+    - [百度云文字识别](platform/baidu/ocr.md)
+    - [百度云翻译](platform/baidu/translate.md)
+    - [百度云语音包购买](platform/baidu/buy.md)
+    - [百度云参数说明](platform/baidu/param.md)
+  * 腾讯云
+    - [腾讯云参数注册](platform/tengxun/register.md)
+    - [配音效果试听](platform/tengxun/listen.md)
+    - [腾讯云参数说明](platform/tengxun/param.md) 
+  * 谷歌云
+    - [谷歌云参数注册](platform/google/register.md)
+  * 微软
+    - [微软参数注册](platform/weiruan/register.md)
+    - [微软语音价格](platform/weiruan/price.md)
+    - [微软风格说明](platform/weiruan/style.md)
+* <mark> **免费福利工具箱** </mark>
+  * [颜色值代码](other/color.md)
+  * [影视VIP在线解析](other/jieix.md)
+  * [终极伴奏人声提取](other/bzrsfl.md)
+  * [免费接码](other/jiema.md)
+  * [免费域名注册](other/mfym.md)
+  * [关闭Win10自动更新10年](other/Win10UpdateGB.md)
+  * [博看书苑](other/BoKanSY.md)
+  * [IPA-商店](other/IPAshangdian.md)
+  * [QIKI导航](daohang.html)

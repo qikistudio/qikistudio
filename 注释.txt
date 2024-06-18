@@ -1,0 +1,36 @@
+  * QiKi霸屏大师
+    - [QiKi霸屏大师](soft/videoMix.md)
+    - [教程](soft/videoMix_course.md)
+    - [更新记录](soft/videoMix_changelog.md)
+  * QiKi视频解说
+    - [QiKi视频解说](soft/videoNarrate.md)
+    - [更新记录](soft/videoNarrate_changelog.md)
+  * QiKi批量MV
+    - [QiKi批量MV](soft/videoMV.md)
+    - [教程](soft/videoMV_course.md)
+  * QiKi-word转视频
+    - [QiKi-word转视频介绍](soft/videoWord.md)
+    - [教程](soft/videoWord_course.md)
+  * QiKi字幕组
+    - [QiKi字幕组介绍](soft/videoSrt.md)
+    - [教程](soft/videoSrt_course.md)
+    - [更新记录](soft/videoSrt_changelog.md)
+---------------------
+  * QiKi快手发布
+    - [快手发布](soft/ksPublish.md)
+  * QiKi抖音发布
+    - [抖音发布](soft/DYPublish.md)
+    - [位置/文件分配教程](soft/DYPublish_course.md)
+    - [更新记录](soft/DYPublish_changelog.md)
+  * QiKi百家号发布
+    - [百家号发布](soft/bjhPublish.md)
+---------------------------------------
+  * 强晒码(商家必备)
+    - [强晒码](qikiclip/QiangSD.md)
+  * 【上新】强晒码Ⅱ(商家必备)
+    - [强晒码](qikiclip/QiangSD2.md)
+    - [使用指引](qikiclip/QiangSD2_course.md)
+  * 【停售】爆单管家-PRO版
+    - [爆单管家-PRO版-已停售](qikiclip/BDGJ_PRO/BDGJ_PRO.md)
+    - [爱思包制作](qikiclip/BDGJ_PRO/aisiBao.md)
+    - [音乐ID获取](qikiclip/BDGJ_PRO/YinYueID)
