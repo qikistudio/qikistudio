@@ -32,7 +32,7 @@
 | 软件名称              | 版本号    | 下载地址                                             | 更新日期/说明 |
 | ----------------- | ------ | ------------------------------------------------ | ------- |
 |      P6监控搬    | 版本V2.0 | [毒盘](https://pan.baidu.com/s/1XNe4yzrnnxTsH8R7dg-eNg?pwd=y75f) |    提取码:y75f      |
-|      P6监控搬     |    版本V2.0    | [蓝奏云](https://qkcm.lanzouj.com/b0141cv6b) |    密码:ghuh     |
+|      P6监控搬     |    版本V2.0    | [蓝奏云](https://ww0.lanzoul.com/b00y6f7ng) |    密码:71mx     |
 | 一键关闭自带杀毒 |        | [一键关闭下载地址](https://wwt.lanzoub.com/iPUi505wpfgj)   |         |
 
 需要关闭杀毒下载解压

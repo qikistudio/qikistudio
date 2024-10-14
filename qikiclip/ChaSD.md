@@ -1,3 +1,18 @@
+<style>
+
+.table {
+  width: 100%;
+  border-collapse: collapse; /* 移除单元格之间的距离 */
+}
+
+.table, th, td {
+  border: 1px solid black; /* 为单元格添加边框 */
+  text-align: center; /* 设置文本水平居中 */
+  vertical-align: middle; /* 设置文本垂直居中 */
+  padding: 10px; /* 设置单元格内部填充 */
+}
+</style>
+
 > ### 爆单管家【晒单订单查询】
 
 ---
@@ -12,7 +27,7 @@
 ---
 > #### 电脑端软件 支持win7以上系统，只出月卡
 
-> #### [爱思包制作方法](BDGJ_PRO/aisiBao.md)
+> #### [爱思包制作方法](qikiclip/BDGJ_PRO/aisiBao.md)
 
 > #### [视频教程](https://www.yuque.com/douxiaobaovideo/qvdyfe/xqeh57d6hqgkisa1?singleDoc#)
 
@@ -25,11 +40,43 @@
 爆单管家【晒单订单查询】  
 视频教程 + 软件下载地址：
 
-| 软件名称              | 版本号    | 下载地址                       | 更新日期/说明 |
-| ----------------- | ------ | ------------------------------------------------ | ------- |
-| 爆单管家·查晒单 | 版本V6.0 | [点此下载](https://qkcm.lanzouj.com/b014cmmif) | 密码:5xzw |
-| 一键关闭自带杀毒          |        | [一键关闭下载地址](https://wwt.lanzoub.com/iPUi505wpfgj) |         |
-| Microsoft Edge浏览器 |        | [下载地址](https://baoxi.lanzoub.com/iPjH11fpauwj)   |         |
+
+<body>
+    <table border="1">
+        <tr style="background-color: #ffcc00;">
+            <th style="white-space: nowrap;"> 软件名称 </th>
+            <th style="white-space: nowrap;"> 版本号 </th>
+            <th style="white-space: nowrap;"> 下载地址 </th>
+            <th> 更新日期/说明 </th>
+        </tr>
+        <tr>
+            <td style="white-space: nowrap;"> 爆单管家·查晒单 </td>
+            <td style="white-space: nowrap;"> 6.2 </td>
+            <td style="white-space: nowrap;"><a href="https://wwcr.lanzoul.com/iBXJy28idt3e">下载地址 </a></td>
+            <td> 新增：批量删除、PC版授权登录 </td>
+        </tr>
+        <tr>
+            <td style="white-space: nowrap;"> 一键关闭自带杀毒WD </td>
+            <td style="white-space: nowrap;"> 1.0 </td>
+            <td style="white-space: nowrap;"><a href="https://wwt.lanzoub.com/iPUi505wpfgj">下载地址 </a></td>
+            <td> 无 </td>
+        </tr>
+        <tr>
+            <td style="white-space: nowrap;">Microsoft Edge浏览器</td>
+            <td style="white-space: nowrap;"> 最       新 </td>
+            <td style="white-space: nowrap;"><a href="https://baoxi.lanzoub.com/iPjH11fpauwj">下载地址 </a></td>
+            <td> 必装 </td>
+        </tr>
+        <tr>
+            <td style="white-space: nowrap;"> PC抖音 </td>
+            <td style="white-space: nowrap;"> 3.5.1 </td>
+            <td style="white-space: nowrap;"><a href="https://www.123pan.com/s/TXC9-s6Pfh.html">下载地址 </a></td>
+            <td> PC版抖音使用须知：安装3.5.1后 点一下软件里的 【一键屏蔽PC抖音更新】 </td>
+        </tr>
+    </table>
+</body>
+
+
 
 需要关闭杀毒下载解压
 如果遇到闪退，请核对填写的抖音号是否正常

@@ -25,11 +25,28 @@
   * QiKi百家号发布
     - [百家号发布](soft/bjhPublish.md)
 ---------------------------------------
-  * 强晒码(商家必备)
-    - [强晒码](qikiclip/QiangSD.md)
-  * 【上新】强晒码Ⅱ(商家必备)
-    - [强晒码](qikiclip/QiangSD2.md)
-    - [使用指引](qikiclip/QiangSD2_course.md)
+  * QiKi剪辑师
+    - [QiKi剪辑师](soft/aicut.md)
+    - [入门教程](soft/aicut_course.md)
+    - [合并栏](soft/aicut_merge.md)
+    - [剪辑栏](soft/aicut_editor.md)
+    - [消重栏](soft/aicut_dedupe.md)
+    - [特效栏](soft/aicut_effect.md)
+    - [mv栏](soft/aicut_mv.md)
+    - [配音字幕栏](soft/aicut_dub.md)
+    - [水印栏](soft/aicut_water.md)
+    - [后期栏](soft/aicut_poster.md)
+    - [配置任务](soft/aicut_other.md)
+    - [工具栏](soft/aicut_tool.md)
+    - [更新记录](soft/aicut_changelog.md)
+    
+---------------------------------------
+
+      * 强晒码(商家必备)
+  * 强晒码
+    - [强晒码](qikiclip/SDM_TD.md)
+    - [使用指引](qikiclip/SDM_TD_course)
+    
   * 【停售】爆单管家-PRO版
     - [爆单管家-PRO版-已停售](qikiclip/BDGJ_PRO/BDGJ_PRO.md)
     - [爱思包制作](qikiclip/BDGJ_PRO/aisiBao.md)

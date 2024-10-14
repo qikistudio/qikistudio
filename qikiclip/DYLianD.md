@@ -50,7 +50,7 @@
 
 | 毒盘   | 密码   | 蓝奏云                                        | 密码   |
 |------|------|--------------------------------------------|------|
-| [下载](https://pan.baidu.com/s/1Kq8VVJb6VVsumSNUyiO9KQ?pwd=rRx6) | rRx6 | [点击下载](https://qkcm.lanzouj.com/b0117b7fi) | b5kq |
+| [下载](https://pan.baidu.com/s/1Kq8VVJb6VVsumSNUyiO9KQ?pwd=rRx6) | rRx6 | [点击下载](https://wwcr.lanzoul.com/iDBqc28lrk8h) | 无密码 |
 
 <p style="color: #ff0000; font-size: 24px;">软件有自动更新升级，如果失败，按下图操作：</p>
 

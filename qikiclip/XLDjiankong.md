@@ -11,13 +11,25 @@
 
 > ## 视频教程
 
-[<mark>安装前·-·必看·-·必看·-·必看·-·</mark>小绿点视频演示](https://docs.qq.com/doc/DVU1BeUp5eUxjVEZF)
+### 无法多个同时录制
+<video width="620" height="360" controls>
+  <source src="https://docs.qiki.asia/qikiclip/XLDjiankong.assets/1.1.mp4" type="video/mp4">
+  无法多个同时录制
+</video>
+
+### 视频号捕获到直播间录制不了
+<video width="620" height="360" controls>
+  <source src="https://docs.qiki.asia/qikiclip/XLDjiankong.assets/1.2.mp4" type="video/mp4">
+  视频号捕获到直播间录制不了
+</video>
+
+
 
 > # 软件下载
 
-| [蓝奏云](https://qkcm.lanzouj.com/b0141301g) | [毒盘](https://pan.baidu.com/s/1mbvIAtln1y-TmVpY1Mu66Q?pwd=zytv) |
+| [蓝奏云](https://ww0.lanzoul.com/b00y6f85e) | [毒盘](https://pan.baidu.com/s/1mbvIAtln1y-TmVpY1Mu66Q?pwd=zytv) |
 | ----------------------------------------- | -------------------------------------------------------------- |
-| 密码:h49m                                   | 提取码: zytv                                                      |
+| 密码:2p9q                                   | 提取码: zytv                                                      |
 
 > ## 软件界面展示
 

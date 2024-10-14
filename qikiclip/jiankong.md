@@ -11,7 +11,7 @@
 
 | 软件名称         | 版本号 | 下载地址                                               | 备注/说明                                                    |
 | ---------------- | ------ | ------------------------------------------------------ | ------------------------------------------------------------ |
-| 实时监控         | 10.20  | [实时监控下载](https://pan.baidu.com/s/1nJBrY0A9rVMdYodDt9dMNg?pwd=bbg8) | [视频教程](https://www.yuque.com/douxiaobaovideo/qvdyfe/fcnogls48bcc0i0g?singleDoc=) |
+| 实时监控         | 10.27  | [实时监控下载](https://www.123pan.com/s/TXC9-6aXfh.html) | [视频教程](https://www.yuque.com/douxiaobaovideo/qvdyfe/fcnogls48bcc0i0g?singleDoc=) |
 | 一键关闭自带杀毒 | 无     | [关闭杀毒下载](https://wwt.lanzoub.com/iPUi505wpfgj)   | 系统WD杀毒                                                   |
 
 ![输入图片说明](jiankong/jiankong2.png)

@@ -16,9 +16,9 @@
 
 | 软件名称                       | 版本号     | 下载地址                                                     | 更新日期/说明             |
 | -------------------------- | ------- | -------------------------------------------------------- | ------------------- |
-| <mark>抖小寳·达人管家</mark>      | 版本v3.10 | [抖小宝·达人管家下载](https://baoxi.lanzoub.com/iAhX3180jntg)     |                     |
-| <mark>缺少libcurl.dll</mark> | 无       | [libcurl.dll下载](https://wwt.lanzoub.com/i7ow401py86f)    | 系统阉割不完整导致的、解决办法下载补丁 |
-| <mark>Webview2浏览器</mark>   | 无       | [WebView2浏览器在线包](https://baoxi.lanzoub.com/iChXH0z4g5cd) |                     |
+| <mark>抖小寳·达人管家</mark>      | 版本v3.37 | [抖小宝·达人管家下载](https://ww0.lanzoul.com/ikB3b26qy55e)     |                     |
+| <mark>缺少libcurl.dll</mark> | 无       | [libcurl.dll下载](https://ww0.lanzoul.com/ihyCU26qy00j)    | 系统阉割不完整导致的、解决办法下载补丁|
+| <mark>Webview2浏览器</mark>   | 无       | [WebView2浏览器在线包](https://ww0.lanzoul.com/imO7G26qy09i) |                     |
 
 ### **安装方法**
 

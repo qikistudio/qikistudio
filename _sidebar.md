@@ -36,6 +36,9 @@
   * 批量删除（四平台）
     - [抖/快/百/蝴蝶 批量删除](qikiclip/4PTDel.md)
 * <mark> **晒单工具** </mark>
+  * 晒单码Ⅱ
+    - [晒单码](qikiclip/QiangSD2.md)
+    - [使用指引](qikiclip/QiangSD2_course.md)
   * 爆单管家-查晒单(抖音)
     - [爆单管家-查晒单](qikiclip/ChaSD.md)
     - [教程](qikiclip/ChaSD_course.md)
@@ -44,6 +47,8 @@
   * 小伙爆单-查晒单(抖音)
     - [小伙爆单-查晒单](qikiclip/XHSD.md)
 * <mark> **批量/剪辑/去重/混剪** </mark>
+  * 映剪精灵S
+    - [映剪精灵](qikiclip/YJ_Elf.md)
   * 视频制作-7.0
     - [视频制作-7.0](qikiclip/qikiclip6_0.md)
     - [更新记录](qikiclip/qikiclip6_0_changelog.md)
@@ -56,22 +61,14 @@
   * QiKi剪辑师
     - [QiKi剪辑师](soft/aicut.md)
     - [入门教程](soft/aicut_course.md)
-    - [合并栏](soft/aicut_merge.md)
-    - [剪辑栏](soft/aicut_editor.md)
-    - [消重栏](soft/aicut_dedupe.md)
-    - [特效栏](soft/aicut_effect.md)
-    - [mv栏](soft/aicut_mv.md)
-    - [配音字幕栏](soft/aicut_dub.md)
-    - [水印栏](soft/aicut_water.md)
-    - [后期栏](soft/aicut_poster.md)
-    - [配置任务](soft/aicut_other.md)
-    - [工具栏](soft/aicut_tool.md)
     - [更新记录](soft/aicut_changelog.md)
   * QiKi裂变
     - [QiKi裂变](soft/videoFission.md)
     - [教程](soft/videoFission_course.md)
     - [更新记录](soft/videoFission_changelog.md)
 * <mark> **AI/数字人/图说话** </mark>
+  * AI速剪辑-让照片说话
+    - [使用教程](qikiclip/AISuCut.md)
   * AI魔盒-让照片说话
     - [简介](qikiclip/AIZPshuohua.md)
   * AI数字人视频版
@@ -140,6 +137,7 @@
     - [微软语音价格](platform/weiruan/price.md)
     - [微软风格说明](platform/weiruan/style.md)
 * <mark> **免费福利工具箱** </mark>
+  * [云盘关键词](other/GJC.html)
   * [颜色值代码](other/color.md)
   * [影视VIP在线解析](other/jieix.md)
   * [终极伴奏人声提取](other/bzrsfl.md)
